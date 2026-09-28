@@ -8,7 +8,6 @@ I am a quantitative analyst and data scientist working on systematic trading str
 
 <br><br>
 
-<h3><code>jp@quant ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./ascii.svg" width="370" alt="ASCII art" /></td>
