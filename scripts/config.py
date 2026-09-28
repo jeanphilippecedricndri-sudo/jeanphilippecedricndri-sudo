@@ -23,7 +23,7 @@ FONT_STACK = "'Space Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monos
 # ── neofetch card ─────────────────────────────────────────────────────────
 CARD_TITLE = f"{PROMPT_USER}@{PROMPT_HOST}"
 CARD_ROWS = [
-    ("Name", "Jean Philippe Cédric N'DRI"),
+    ("Name", "Jean Philippe Cedric N'DRI"),
     ("Role", "Quantitative Analyst"),
     ("Also", "Data Scientist"),
     ("Base", "Paris, FR"),
