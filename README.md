@@ -4,15 +4,15 @@ I am a quantitative analyst and data scientist working on systematic trading str
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
-
-<br><br>
-
 <table>
   <tr>
     <td valign="top"><img src="./ascii.svg" width="370" alt="ASCII art" /></td>
     <td valign="top"><img src="./info-card.svg" width="490" alt="neofetch card" /></td>
   </tr>
 </table>
+
+<br>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
 </div>
