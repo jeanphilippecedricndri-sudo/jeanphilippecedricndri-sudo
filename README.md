@@ -11,6 +11,27 @@ I am a quantitative analyst and data scientist working on systematic trading str
   </tr>
 </table>
 
+</div>
+
+### Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/jeanphilippecedricndri-sudo/portfolio-opt"><b>portfolio-opt</b></a><br>
+      <sub>Python · NumPy · SciPy · pandas</sub><br><br>
+      Portfolio allocation research toolkit. Risk-based estimators (1/N, inverse volatility, arity, ERC, HRP) with sample, Ledoit-Wolf and EWMA covariances, a walk-forward backtester net of transaction costs, and performance and risk metrics (Sharpe, Sortino, CVaR, PSR). Tested, with a full methodology including proofs.
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/jeanphilippecedricndri-sudo/SystematicOptionStrat"><b>SystematicOptionStrat</b></a><br>
+      <sub>Python · pandas · options · volatility</sub><br><br>
+      Backtests of systematic option strategies on SPY (2020 to 2022): buy-write, protective put, collar, long straddle, and variance risk premium harvesting through a short straddle and a synthetic variance swap replicated with OTM options. Includes a synthetic option chain generator so it runs offline.
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
 <br>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
