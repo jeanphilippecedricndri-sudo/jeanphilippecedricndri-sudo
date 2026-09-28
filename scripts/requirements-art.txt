@@ -1,0 +1,7 @@
+# local only: portrait / vol surface (rerun when the photo or the card changes)
+-r requirements.txt
+numpy
+pillow
+matplotlib
+opencv-python-headless
+rembg[cpu]
