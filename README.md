@@ -4,7 +4,6 @@ I am a quantitative analyst and data scientist working on systematic trading str
 
 <div align="center">
 
-<h3><code>jp@quant ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
 <br><br>
