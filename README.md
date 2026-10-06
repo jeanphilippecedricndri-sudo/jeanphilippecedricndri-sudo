@@ -17,6 +17,13 @@ I am a quantitative analyst and data scientist working on systematic trading str
 
 <table>
   <tr>
+    <td valign="top" colspan="2">
+      <a href="https://github.com/jeanphilippecedricndri-sudo/quantlib-pricing"><b>quantlib-pricing</b></a><br>
+      <sub>Python · NumPy · SciPy · pandas · CI</sub><br><br>
+      Option pricing library written from scratch, covering the valuation chain of an equity derivatives desk. Workflow: <b>option chain</b> (forward from put-call parity) → <b>implied vol</b> (safeguarded Newton, Brent fallback) → <b>SVI / SSVI surface</b> (butterfly and calendar arbitrage checks) → <b>Dupire local vol</b> → <b>PDE engine</b> (Crank-Nicolson, Rannacher, PSOR: European, American, Bermudan) and <b>Monte Carlo engine</b> (Asians, barriers, lookbacks). Validated against closed forms and a binomial tree: American put 6.0879 vs 6.0904. 44 tests, four executed notebooks, known limits documented.
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/jeanphilippecedricndri-sudo/multiasset-strat"><b>multiasset-strat</b></a><br>
       <sub>Python · portopt · NumPy · pandas</sub><br><br>
